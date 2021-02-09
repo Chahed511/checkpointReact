@@ -1,0 +1,22 @@
+h1 {
+  color: rgb(0, 0, 0);
+}
+.form {
+
+
+padding-top: 10%; 
+padding-left: 25%; 
+padding-right: 25%; 
+padding-bottom: 20;
+}
+.body{
+margin-top: 20px;
+
+}
+.btn-primary {
+  color: #fff;
+  background-color: #17a2b8 !important;
+  border-color: #17a2b8  !important;
+
+  width: 100%  !important;
+}
